@@ -8,6 +8,7 @@
 - #### RabbitMQ (Pasta sbin deve estar nas variáveis de ambiente)
 - #### Node.js
 - #### NPM
+- #### Lib AMQP | Pode rodar com o seguinte comando no terminal ``npm install amqp``
 
 -----------------------
 
