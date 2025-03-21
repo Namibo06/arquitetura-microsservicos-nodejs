@@ -1,0 +1,9 @@
+explicacoes.md
+
+payment/node_modules
+payment/package-lock.json
+payment/package.json
+
+order/node_modules
+order/package-lock.json
+order/package.json
